@@ -1,6 +1,6 @@
-# Nama Proyek Laravel
+# Dokumentasi dan Instruksi Running
 
-Deskripsi singkat tentang proyek ini.
+Proyek ini dibuat untuk melakukan tes selksi Dinas Kominfo Jawa Timur
 
 ## Requirement
 
